@@ -9,4 +9,4 @@ Welcome all the mystart repo
 Here is the main repo which record my new learning 
 # Python
 
-[python]("python")
+[python](python)
