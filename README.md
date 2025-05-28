@@ -2,11 +2,11 @@
 
 <img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
 
-Hey @Gokulpranith!
+Hey @Everyone!
 
-Mona here. I'm done preparing your exercise. Hope you enjoy    mine ! 💚
+Welcome all the mystart repo 
 
-Remember, it's self-paced so feel free to take a break! ☕️
+Here is the main repo which record my new learning 
 
 [![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/Gokulpranith/mystart/issues/1)
 
